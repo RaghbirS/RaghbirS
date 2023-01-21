@@ -6,7 +6,7 @@ Software Engineer
 
 * 🌍  I'm based in Dibrugarh, Assam, India
 * ✉️  You can contact me at [rkgaming0203@gmail.com](mailto:rkgaming0203@gmail.com)
-* 🧠  I'm learning JavaScript, HTML, CSS, JavaScript, React.js, Node.js, React Native, MongoDB, Express.js.
+* 🧠  I'm learning JavaScript, HTML, CSS, JavaScript, TypeScript, Next.js, React.js, Node.js, React Native, MongoDB, Express.js.
 * 🤝  I'm open to collaborating on Full Stack Development Projects
 * ⚡  I'm Spider man but don't tell anyone.
 
