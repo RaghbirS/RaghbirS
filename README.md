@@ -40,11 +40,11 @@ Software Engineer
 
 <h3>Projects</h3>
 
-<li>E- Commerce Clone (Work in Progress)</li>
-<li>Todo List</li>
-<li>Music Player</li>
-<li>Calculator</li>
-
+<li><a href="">E- Commerce Clone (Work in Progress)</li></a>
+<li><a href="https://tqtsyn.csb.app/">Todo List</li></a>
+<li><a href="https://music-player.raghbirsingh.repl.co/">Music Player</li></a>
+<li><a href="https://calculator.raghbirsingh.repl.co/">Calculator</li></a>
+<li><a href="https://tiktaktoe.raghbirsingh.repl.co/">Tik-Tak-Toe</li></a>
 
 
 ### Badges
