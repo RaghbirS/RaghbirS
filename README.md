@@ -37,11 +37,13 @@ Software Engineer
 ### Socials
 
 <p align="left"> <a href="https://www.github.com/RaghbirS" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/raghbir-singh-a1183a219/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
-### Projects
-<p>E- Commerce Clone (Work in Progress)</p>
-<p>Todo List</p>
-<p>Music Player</p>
-<p>Calculator</p>
+
+<h3>Projects</h3>
+
+<li>E- Commerce Clone (Work in Progress)</li>
+<li>Todo List</li>
+<li>Music Player</li>
+<li>Calculator</li>
 
 
 
